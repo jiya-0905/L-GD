@@ -17,8 +17,8 @@ provide insights into library operations, with customizable reports on book issu
 fines collected, and room bookings. These analytics features help identify trends, track popular books, and
 optimize library resources.
 
-Software and Technologies used:
-- • SQL
-- • PL/SQL
-- • Oracle Live SQL
-- • Draw.io
+## Software and Technologies used:
+-  SQL
+-  PL/SQL
+-  Oracle Live SQL
+-  Draw.io
